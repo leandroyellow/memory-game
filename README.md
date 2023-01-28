@@ -6,11 +6,11 @@ desenvolvido em vite react com typescript
 
 `npm install`
 
-# `npm install styled-components`
+`npm install styled-components`
 
 para rodar o projeto com typescript
 
-# `npm install -D @types/styled-components`
+`npm install -D @types/styled-components`
 
 
 
